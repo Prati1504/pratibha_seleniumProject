@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>SeleniumLearning</name>
+	<name>SeleniumPractice</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -14,16 +14,4 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>demo.xlsx</name>
-			<type>1</type>
-			<location>C:/selenium/demo.xlsx</location>
-		</link>
-		<link>
-			<name>src/demo.xlsx</name>
-			<type>1</type>
-			<location>C:/selenium/demo.xlsx</location>
-		</link>
-	</linkedResources>
 </projectDescription>
